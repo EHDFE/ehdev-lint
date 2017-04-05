@@ -1,0 +1,28 @@
+{
+  "name": "ehdev-lint",
+  "version": "1.0.0",
+  "description": "ehdev lint plugin",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macisi/ehdev-lint.git"
+  },
+  "keywords": [
+    "ehdev"
+  ],
+  "author": "ryan.bian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/macisi/ehdev-lint/issues"
+  },
+  "homepage": "https://github.com/macisi/ehdev-lint#readme",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "co": "^4.6.0",
+    "eslint": "^3.19.0",
+    "inquirer": "^3.0.6",
+    "npminstall": "^2.29.1",
+    "package-json": "^4.0.0"
+  }
+}
